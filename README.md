@@ -5,7 +5,7 @@
 
 
 ##Descripción:
- Aplicacion Windows Forms desarrollada en C# , con el proposito de leer codigos QR
+ Aplicación Windows Forms desarrollada en C# , con el proposito de leer codigos QR
  a traves de una camara generica , la lectura obtenida del QrCode sera redirigida a un elemento WebBrowser en caso que corresponda a una URL.
 
  Para ello se utilizaron las siguientes librerias:
